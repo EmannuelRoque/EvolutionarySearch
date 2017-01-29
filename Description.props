@@ -5,10 +5,10 @@
 PackageName=EvolutionarySearch
 
 # Version (required)
-Version=1.0.1
+Version=1.0.2
 
 #Date (year-month-day)
-Date=2016-04-26
+Date=2017-29-01
 
 # Title (required)
 Title=An Evolutionary Algorithm (EA) to explore the space of attributes.
@@ -29,7 +29,7 @@ License=GPL 3.0
 Description=EvolutionarySearch looks for a good subset of attributes in order to improve the classification accuracy of supervised learning techniques in classification problems with a huge number of attributes involved. It implements a (mu, lambda)-EA (Evolutionary Algorithm) with the following operators: uniform random initialization, binary tournament selection, single point crossover, bit flip mutation and generational replacement with elitism (i.e., the best individual is always kept). This package is properly designed to easily add new operators. Please, see the document entitled developers-guide.pdf available within this package.<br/><br/>For more information about similar algorithms see: <a href="http://neo.lcc.uma.es">the NEO Group website</a>
 
 # Package URL for obtaining the package archive (required)
-PackageURL=http://www.sebastianlunavalero.es/weka/EvolutionarySearch1.0.1.zip
+PackageURL=https://github.com/sebastian-luna-valero/EvolutionarySearch/archive/1.0.2.zip
 
 # URL for further information
 URL=http://neo.lcc.uma.es/
